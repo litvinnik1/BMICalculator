@@ -9,7 +9,6 @@ Time spent: **10** hours spent in total
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/S7CeUw7jJ7S4esvMZa/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
