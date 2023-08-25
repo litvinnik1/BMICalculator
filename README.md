@@ -6,18 +6,6 @@
 
 Time spent: **10** hours spent in total
 
-## Functionality 
-
-The following **required** functionality is completed:
-
-* [x] Users can write in their weight and height
-* [x] Users can click the button to calculate their BMI rate
-* [x] After clicking calculate button users can see their BMI rate
-
-The following **extensions** are implemented:
-
-* [x] Custom colors palette selected
-* [x] Normal range of BMi which can be seen after calculating the BMI rate
 
 ## Video Walkthrough
 
@@ -29,7 +17,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [2023] [Nikita Lytvyn]
+    Copyright 2023 Nikita Lytvyn
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
